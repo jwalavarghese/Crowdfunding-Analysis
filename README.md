@@ -1,10 +1,10 @@
 # Crowdfunding-Analysis<br/>
 <br/>
-**Project Overview:**<br/>
+#Project Overview:<br/>
 <br/>
 Crowdfunding is a way of raising money to finance projects and businesses. This project presents analysis of projects from Kickstarer based on various aspects such as the amount raised, categories, backers count, time range. The goal is to assess the success rate of the projects.<br/>
 <br/>
-**Objectives:**<br/>
+#Objectives:<br/>
 <br/>
 To analyse the success rate of projects.<br/>
 To assess the projects based on aspects such as Country, Categories, Backers count.<br/>
